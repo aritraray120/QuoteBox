@@ -10,6 +10,7 @@ A simple web application that generates random quotes upon button click. This pr
 ## Technologies Used
 
 - ReactJS
+- Javascript
 - CSS
 
 ## Getting Started
